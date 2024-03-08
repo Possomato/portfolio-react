@@ -1,98 +1,98 @@
 {
-    "name": "Gabriel B Possomato",
-    "photo": "https://avatars.githubusercontent.com/u/123518333?s=400&u=2a9502f45a57b204196218c290628a1a9e0b0934&v=4",
-    "job": "Estudante",
-    "location": "Iperó - SP",
-    "phone": "15981273036",
-    "mail": "gabrielb.possomato@gmail.com",
-    "skills": {
-      "hardSkills": [
-        {
-          "name": "JavaScript",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
-        },
-        {
-          "name": "Node",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
-        },
-        {
-          "name": "REACT",
-          "logo": "https://raw.githubusercontent.com/joserenatofelix/js-developer-portfolio/main/data/imgs/react.png"
-        },
-        {
-          "name": "CSS",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
-        }
-      ],
-      "softSkills": [
-        "Facilidade com tarefas práticas",
-        "Comunicação",
-        "Trabalho em equipe",
-        "Organização",
-        "Compromentimento com resultados"
-      ]
-    },
-    "education": [
+  "name": "Gabriel B Possomato",
+  "photo": "https://avatars.githubusercontent.com/u/123518333?s=400&u=2a9502f45a57b204196218c290628a1a9e0b0934&v=4",
+  "job": "Estudante",
+  "location": "Iperó - SP",
+  "phone": "15981273036",
+  "mail": "gabrielb.possomato@gmail.com",
+  "skills": {
+    "hardSkills": [
       {
-        "institution": "SENAI - Serviço Nacional de Aprendizagem Industrial",
-        "course": "Técnico em Mecatrônica",
-        "period": "2018 - 2020",
-        "concluded": true
+        "name": "REACT",
+        "logo": "https://raw.githubusercontent.com/joserenatofelix/js-developer-portfolio/main/data/imgs/react.png"
       },
       {
-        "institution": "UNIVESP - Universidade Virtual do Estado de São Paulo",
-        "course": "Engenharia de Computação",
-        "period": "2022 - 2027",
-        "concluded": false
+        "name": "Node",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
       },
       {
-        "institution": "UNINTER - Centro Universitário Internacional",
-        "course": "Análise e Desenvolvimento de Sistemas",
-        "period": "2023 - 2025",
-        "concluded": false
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
+      },
+      {
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
       }
     ],
-    "languages":[
-      {
-        "language": "Inglês",
-        "level": 3
-      },
-      {
-        "language": "Português",
-        "level": 4
-      },
-      {
-        "language": "Italiano",
-        "level": 2
-      }
-    ],
-    "portfolio": [
-      {
-        "name": "Pokedex",
-        "url": "https://github.com/Possomato/DIO/tree/main/javascript/Bootcamp-FormacaoJavaScriptDeveloper/modulo02/POKEDEX",
-        "github": true
-      },
-      {
-        "name": "Encomendas - @pupped.store",
-        "url": "https://github.com/Possomato/pupped",
-        "github": true
-      },
-      {
-        "name": "Calculadora de IMC",
-        "url": "https://github.com/Possomato/IMC",
-        "github": true
-      }
-    ],
-    "professionalExperience": [
-      {
-        "name": "Desenhista técnico - Patmos",
-        "period": "2021 - 2022",
-        "description": "Como desenhista técnico, eu era responsável por realizar análises de mercado para o desenvolvimento de produtos utilizando o software SolidWorks. Além disso, realizava as requisições no sistema para produção de peças e compras, alimentando o sistema com informações precisas sobre a quantidade de peças utilizadas. Com isso, contribuí para um processo de produção mais eficiente e organizado."
-      },
-      {
-        "name": "Fundador - @pupped.store",
-        "period": "2020 - 2023",
-        "description": "Ao exercer o papel de proprietário de uma loja especializada em revenda de tênis raros, pude adquirir valiosas experiências em diversas áreas. Desenvolvi uma sólida noção de marketing, aplicando estratégias eficazes para promover meus produtos e alcançar o público-alvo. Além disso, o controle de estoque se tornou fundamental para atender às demandas dos clientes e garantir a disponibilidade dos tênis mais cobiçados. Compreender o ciclo de vida de um produto foi essencial para antecipar tendências e manter minha loja relevante no mercado. Minhas habilidades de edição no Photoshop também foram aprimoradas, permitindo-me criar conteúdo visualmente atraente para as redes sociais, onde expandi minha base de clientes e fortaleci a presença online da minha loja."
-      }
+    "softSkills": [
+      "Facilidade com tarefas práticas",
+      "Comunicação",
+      "Trabalho em equipe",
+      "Organização",
+      "Compromentimento com resultados"
     ]
-  }
+  },
+  "education": [
+    {
+      "institution": "SENAI - Serviço Nacional de Aprendizagem Industrial",
+      "course": "Técnico em Mecatrônica",
+      "period": "2018 - 2020",
+      "concluded": true
+    },
+    {
+      "institution": "UNIVESP - Universidade Virtual do Estado de São Paulo",
+      "course": "Engenharia de Computação",
+      "period": "2022 - 2027",
+      "concluded": false
+    },
+    {
+      "institution": "UNINTER - Centro Universitário Internacional",
+      "course": "Análise e Desenvolvimento de Sistemas",
+      "period": "2023 - 2025",
+      "concluded": false
+    }
+  ],
+  "languages": [
+    {
+      "language": "Inglês",
+      "level": 3
+    },
+    {
+      "language": "Português",
+      "level": 4
+    },
+    {
+      "language": "Italiano",
+      "level": 2
+    }
+  ],
+  "portfolio": [
+    {
+      "name": "Pokedex",
+      "url": "https://github.com/Possomato/DIO/tree/main/javascript/Bootcamp-FormacaoJavaScriptDeveloper/modulo02/POKEDEX",
+      "github": true
+    },
+    {
+      "name": "Encomendas - @pupped.store",
+      "url": "https://github.com/Possomato/pupped",
+      "github": true
+    },
+    {
+      "name": "Calculadora de IMC",
+      "url": "https://github.com/Possomato/IMC",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Desenhista técnico - Patmos",
+      "period": "2021 - 2022",
+      "description": "Como desenhista técnico, eu era responsável por realizar análises de mercado para o desenvolvimento de produtos utilizando o software SolidWorks. Além disso, realizava as requisições no sistema para produção de peças e compras, alimentando o sistema com informações precisas sobre a quantidade de peças utilizadas. Com isso, contribuí para um processo de produção mais eficiente e organizado."
+    },
+    {
+      "name": "Fundador - @pupped.store",
+      "period": "2020 - 2023",
+      "description": "Ao exercer o papel de proprietário de uma loja especializada em revenda de tênis raros, pude adquirir valiosas experiências em diversas áreas. Desenvolvi uma sólida noção de marketing, aplicando estratégias eficazes para promover meus produtos e alcançar o público-alvo. Além disso, o controle de estoque se tornou fundamental para atender às demandas dos clientes e garantir a disponibilidade dos tênis mais cobiçados. Compreender o ciclo de vida de um produto foi essencial para antecipar tendências e manter minha loja relevante no mercado. Minhas habilidades de edição no Photoshop também foram aprimoradas, permitindo-me criar conteúdo visualmente atraente para as redes sociais, onde expandi minha base de clientes e fortaleci a presença online da minha loja."
+    }
+  ]
+}
