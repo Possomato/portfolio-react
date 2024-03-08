@@ -6,7 +6,7 @@ export function ApiStorage({ children }) {
   const [api, setApi] = React.useState(null);
 
   React.useEffect(() => {
-    fetch('https://raw.githubusercontent.com/Possomato/portfolio/main/data/profile.json')
+    fetch('https://raw.githubusercontent.com/Possomato/portfolio-react/main/data/profile.json')
       .then(response => response.json())
       .then(json => setApi(json))
   }, [])
