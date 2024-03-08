@@ -1,0 +1,88 @@
+.habilidades{
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 1rem 2rem;
+}
+
+.habilidadesPro, .habilidadesPes{
+  display: flex;
+  flex-direction: column;
+}
+
+.habilidadesPes{
+  width: 45%;
+}
+
+.techs{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: min(500px, 50vw);
+  height: 100%;
+}
+
+.habilidadesPro > .techs > ul{
+  width: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  list-style-type: none;
+}
+
+.habilidadesPro > .techs > ul > li{
+  padding: .5rem .5rem;
+}
+
+.habilidadesPro > .techs > ul > li > img{
+  max-width: 50px;
+}
+
+.habilidadesPes{
+  list-style-type: disc;
+  padding: 0 1rem;
+}
+
+ul li{
+  padding: .5rem;
+}
+
+@media only screen and (max-width: 468px){
+  .habilidades{
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 1rem;
+  }
+
+  .techs{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+  }
+
+  .habilidadesPro, .habilidadesPes{
+    width: auto;
+  }
+
+  .habilidadesPro > .techs > ul{
+    width: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  
+  .habilidadesPro > .techs > ul > li{
+    padding: .5rem .5rem;
+  }
+  
+  .habilidadesPro > ul > li > img{
+    max-width: 50px;
+  }
+}
